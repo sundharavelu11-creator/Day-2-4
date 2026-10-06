@@ -1,3 +1,25 @@
+for loop
+    ↓
+Loop through list
+    ↓
+range()
+    ↓
+Loop + if condition
+    ↓
+Loop through dictionary
+    ↓
+List of dictionaries
+    ↓
+while loop
+    ↓
+break
+    ↓
+continue
+    ↓
+Nested loops
+    ↓
+AWS/Data Engineering file-processing scenarios
+
 What is a loop? A loop repeats the same code for many files or records, so you don't write it once per item.
 for loop: It takes one item at a time from a collection and stores it in a temporary variable.
 How the loop works: Each pass (iteration) assigns the next item to the loop variable until the items run out.
